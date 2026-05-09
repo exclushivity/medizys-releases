@@ -1,6 +1,6 @@
 {
     "version":  "1.2.0",
-    "build":  156,
+    "build":  157,
     "url":  "https://github.com/10sp/medizys-releases/raw/master/clinical-pulse-v1.2.0.apk",
     "notes":  "Stable release with Auto-Updater, Native Video Splash, and MLKit High-Speed Scanning."
 }
