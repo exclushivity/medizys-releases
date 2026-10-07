@@ -1,6 +1,6 @@
 {
     "version": "1.3.0",
-    "build": 320,
+    "build": 321,
     "url": "https://github.com/10sp/medizys-releases/raw/master/clinical-pulse-v1.3.0.apk",
     "notes": "Stable release v1.3.0 with telehealth optimizations, real-time queue sync, and enhanced security."
 }
