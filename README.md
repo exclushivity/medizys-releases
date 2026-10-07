@@ -4,7 +4,7 @@ Official distribution channel for the **Medizys Clinical Pulse** Android Applica
 
 ## 📥 Latest Release
 
-### **[v1.1.0 — Official Branded Release](https://github.com/10sp/medizys-releases/raw/master/clinical-pulse-v1.1.0.apk)**
+### **[v1.3.0 — Official Branded Release](https://github.com/10sp/medizys-releases/raw/master/clinical-pulse-v1.3.0.apk)**
 
 > [!IMPORTANT]
 > This version includes the new **Auto-Update** system. Future updates will be notified directly within the app.
