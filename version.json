@@ -1,6 +1,6 @@
 {
     "version": "1.3.0",
-    "build": 321,
+    "build": 322,
     "url": "https://github.com/10sp/medizys-releases/raw/master/clinical-pulse-v1.3.0.apk",
     "notes": "Stable release v1.3.0 with multi-app ecosystem support, telehealth optimizations, real-time queue sync, and enhanced security.",
     "apps": {
@@ -9,42 +9,42 @@
             "appId": "com.haraxy.medizys",
             "url": "https://github.com/10sp/medizys-releases/raw/master/clinical-pulse-v1.3.0.apk",
             "version": "1.3.0",
-            "build": 321
+            "build": 322
         },
         "doctor": {
             "name": "Medizys Doctor",
             "appId": "com.medizys.doctor",
             "url": "https://github.com/10sp/medizys-releases/raw/master/medizys-doctor-v1.3.0.apk",
             "version": "1.3.0",
-            "build": 321
+            "build": 322
         },
         "patient": {
             "name": "Medizys Patient",
             "appId": "com.medizys.patient",
             "url": "https://github.com/10sp/medizys-releases/raw/master/medizys-patient-v1.3.0.apk",
             "version": "1.3.0",
-            "build": 321
+            "build": 322
         },
         "nurse": {
             "name": "Medizys Nurse",
             "appId": "com.medizys.nurse",
             "url": "https://github.com/10sp/medizys-releases/raw/master/medizys-nurse-v1.3.0.apk",
             "version": "1.3.0",
-            "build": 321
+            "build": 322
         },
         "assistant": {
             "name": "Medizys Assistant",
             "appId": "com.medizys.assistant",
             "url": "https://github.com/10sp/medizys-releases/raw/master/medizys-assistant-v1.3.0.apk",
             "version": "1.3.0",
-            "build": 321
+            "build": 322
         },
         "hospital": {
             "name": "Medizys Hospital",
             "appId": "com.medizys.hospital",
             "url": "https://github.com/10sp/medizys-releases/raw/master/medizys-hospital-v1.3.0.apk",
             "version": "1.3.0",
-            "build": 321
+            "build": 322
         }
     }
 }
